@@ -1,4 +1,4 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20230616/pngtree-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-image_3616848.jpg)](https://www.datacamp.com/portfolio/ibusah)
+[![MasterHead]([https://png.pngtree.com/thumb_back/fh260/background/20230616/pngtree-web-banner-and-business-chart-mockup-featuring-a-3d-rendered-seo-image_3616848.jpg](https://as1.ftcdn.net/v2/jpg/04/39/63/56/1000_F_439635674_0mEVTGzc4w82vQQB8AmE9uGRvdeoUvGK.jpg))](https://www.datacamp.com/portfolio/ibusah)
 <h1 align="center">Hi 👋, I'm Irene Busah</h1>
 <h3 align="center">A passionate data scientist from Ghana</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" />
