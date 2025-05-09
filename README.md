@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **such projects**
 
-- 👨‍💻 All of my projects are available at [Data Portfolio](https://www.datacamp.com/portfolio/ibusah)
+- 👨‍💻 All of my projects are available at [Data Portfolio](https://irene-busah-portfolio-5wyq1s9.gamma.site/)
 
 - 💬 Ask me about **Python, SQL, data visualization, data analysis, and Backend dev**
 
