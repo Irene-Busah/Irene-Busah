@@ -45,7 +45,7 @@ class IreneBusah:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irene%20Busah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irene-busah)
 [![Kaggle](https://img.shields.io/badge/Kaggle-irenebusah-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/irenebusah)
-[![HackerRank](https://img.shields.io/badge/HackerRank-i__busah1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/@i_busah1)
+[![HackerRank](https://img.shields.io/badge/HackerRank-i__busah1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/@i_busah1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-irene--busah-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/busah)
 [![Codeforces](https://img.shields.io/badge/Codeforces-irene--busah-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/irenebusah)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://irene-busah-portfolio-5wyq1s9.gamma.site/)
