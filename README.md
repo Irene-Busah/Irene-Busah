@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Irene%20Busah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Irene%20Busah&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=Data%20Scientist%20%7C%20ML%20Engineer%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=18&descColor=a8d8ea&animation=fadeIn&fontFamily=Raleway" width="100%" />
 
 </div>
 
@@ -46,8 +46,8 @@ class IreneBusah:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Irene%20Busah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/irene-busah)
 [![Kaggle](https://img.shields.io/badge/Kaggle-irenebusah-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/irenebusah)
 [![HackerRank](https://img.shields.io/badge/HackerRank-i__busah1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/@i_busah1)
-[![LeetCode](https://img.shields.io/badge/LeetCode-irene--busah-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/busah)
-[![Codeforces](https://img.shields.io/badge/Codeforces-irene--busah-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/irenebusah)
+[![LeetCode](https://img.shields.io/badge/LeetCode-busah-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/busah)
+[![Codeforces](https://img.shields.io/badge/Codeforces-irenebusah-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/irenebusah)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://irene-busah-portfolio-5wyq1s9.gamma.site/)
 [![Email](https://img.shields.io/badge/Email-i.busah123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.busah123@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20Here-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1qezbDZ5H6nNL4G3SGE1K7P9ZT49TK1b1pR6JnaRCTXA/edit?usp=sharing)
@@ -135,11 +135,11 @@ I sharpen my algorithmic thinking every single day through competitive programmi
 
 | Area | Topics |
 |------|--------|
-| 📐 **Algorithms** | Sorting, Searching, Divide & Conquer, Greedy |
-| 🌲 **Data Structures** | Trees, Graphs, Heaps, Tries, Segment Trees |
-| 🔢 **Math & Logic** | Number Theory, Combinatorics, Bit Manipulation |
-| 🗺️ **Graph Problems** | BFS/DFS, Shortest Paths, Dynamic Programming |
-| ⚡ **Optimization** | Time & Space complexity mastery |
+| 🔃 **Sorting Algorithms** | Bubble, Selection, Insertion, Merge, Quick, Heap, Counting Sort |
+| ➕ **Prefix Sum** | Range sum queries, difference arrays, 2D prefix sums |
+| 👉 **Two Pointers** | Pair finding, partitioning, opposite-end traversal |
+| 🪟 **Sliding Window — Fixed** | Fixed-size subarray problems, max/min in window |
+| 🔄 **Sliding Window — Dynamic** | Variable-size windows, shrink/expand strategy, substring problems |
 
 <br/>
 
