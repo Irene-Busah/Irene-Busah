@@ -179,28 +179,11 @@ I sharpen my algorithmic thinking every single day through competitive programmi
 
 ## 💡 &nbsp;What I'm Up To
 
-<table>
-  <tr>
-    <td>🏆</td>
-    <td><strong>Competing:</strong> Competitive programming — solving algorithmic challenges every single day</td>
-  </tr>
-  <tr>
-    <td>🔭</td>
-    <td><strong>Building:</strong> Data & AI-powered projects</td>
-  </tr>
-  <tr>
-    <td>🌱</td>
-    <td><strong>Learning:</strong> Scalable ML systems, MLOps pipelines & data engineering</td>
-  </tr>
-  <tr>
-    <td>👯</td>
-    <td><strong>Open to:</strong> Collaborations on ML, data science & MLOps projects</td>
-  </tr>
-  <tr>
-    <td>🎤</td>
-    <td><strong>Fun fact:</strong> I'm just as passionate about public speaking as I am about crunching data!</td>
-  </tr>
-</table>
+🏆 &nbsp;**Competing** — Competitive programming, solving algorithmic challenges every single day  
+🔭 &nbsp;**Building** — Data & AI-powered projects  
+🌱 &nbsp;**Learning** — Scalable ML systems, MLOps pipelines & data engineering  
+👯 &nbsp;**Open to** — Collaborations on ML, data science & MLOps projects  
+🎤 &nbsp;**Fun fact** — I'm just as passionate about public speaking as I am about crunching data!
 
 <br/>
 
