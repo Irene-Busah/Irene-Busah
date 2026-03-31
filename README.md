@@ -48,7 +48,7 @@ class IreneBusah:
 [![HackerRank](https://img.shields.io/badge/HackerRank-i__busah1-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/@i_busah1)
 [![LeetCode](https://img.shields.io/badge/LeetCode-busah-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/busah)
 [![Codeforces](https://img.shields.io/badge/Codeforces-irenebusah-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/irenebusah)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)]([https://irene-busah-portfolio-5wyq1s9.gamma.site/](https://irene-busah.github.io/portfolio/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)]([https://irene-busah.github.io/portfolio/](https://irene-busah.github.io/portfolio/))
 [![Email](https://img.shields.io/badge/Email-i.busah123@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:i.busah123@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-View%20Here-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1qezbDZ5H6nNL4G3SGE1K7P9ZT49TK1b1pR6JnaRCTXA/edit?usp=sharing)
 
