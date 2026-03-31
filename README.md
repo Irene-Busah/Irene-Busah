@@ -149,9 +149,9 @@ I sharpen my algorithmic thinking every single day through competitive programmi
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=irene-busah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=irene-busah&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=12" />
 &nbsp;&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irene-busah&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=irene-busah&layout=compact&langs_count=8&theme=tokyonight&border_radius=12" />
 
 </div>
 
